@@ -1,0 +1,12 @@
+.hacktober { padding: 40px 0; }
+
+h2 { color: #212739; font-family: Oswald, sans-serif; letter-spacing: 1.2px; margin-bottom: 50px; }
+
+img { width: 100%; }
+/* img { width: 130%; } */
+
+.hack-content { padding: 30px 0; }
+
+.content { font-family: Oswald, sans-serif; font-size: 20px; margin: auto; letter-spacing: 0.5px; }
+
+.date { margin-top: 10px; font-family: Oswald, sans-serif; letter-spacing: 0.5px; }
